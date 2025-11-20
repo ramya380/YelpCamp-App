@@ -22,8 +22,6 @@ npm start
 
 
 <img width="971" height="726" alt="113733448-1a3ac300-9718-11eb-9fc7-defb8d2cd9c1" src="https://github.com/user-attachments/assets/6016e8a5-f5e9-48a4-8f7a-12c174fd185b" />
-
-
-
+<img width="1126" height="896" alt="113733438-173fd280-9718-11eb-8a0d-8e13f1ab3d45" src="https://github.com/user-attachments/assets/c4e692f4-571e-4112-ad1a-93df0ca1e06d" />
 
 
