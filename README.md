@@ -1,7 +1,8 @@
 A full-stack camping site application built with Node.js, Express, MongoDB, and EJS.  
 Users can create, edit, and review campgrounds with authentication and authorization.
 
-## Features
+## Features<img width="971" height="726" alt="113733448-1a3ac300-9718-11eb-9fc7-defb8d2cd9c1" src="https://github.com/user-attachments/assets/0bb090e5-0a6b-438c-9175-7e9556301391" />
+
 - User authentication (Login/Register)
 - Create, edit & delete campgrounds
 - Add reviews and ratings
@@ -18,5 +19,10 @@ Users can create, edit, and review campgrounds with authentication and authoriza
 ## Running Locally
 npm install
 npm start
-<img width="782" height="752" alt="113734300-d8f6e300-9718-11eb-801e-5cb4698a1560" src="https://github.com/user-attachments/assets/1b084d9b-6cc1-4939-8d9c-5c06d573b539" />
+
+
+
+
+
+
 
